@@ -1,3 +1,3 @@
 # LeetCode Practice
 
-My LeetCode Journey using C++!
+My LeetCode Journey!
