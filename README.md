@@ -1,3 +1,3 @@
 # LeetCode Practice
 
-My LeetCode Journey!
+Repo for solving Leetcode in C/C++!
